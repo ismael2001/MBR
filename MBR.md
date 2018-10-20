@@ -1,8 +1,4 @@
-<h1>**MBR**<H1>
-
-
-
-
+<h1>MBR<H1>
 
 **Master Boot Record** conocido como registro de arranque maestro, és el primer registro del disco duro, el cual contiene un programa ejecutable y una tabla donde estan definidas las particiones del disco duro, donde se emplea para el arranque del sistema operativo.
 

@@ -14,6 +14,7 @@ Ocupa **446 bytes**
 2. Formato
 3. Tamaño
 4. Sector de Inicio
+
 Ocupa **64 bytes**, conteniendo 4 regristos de 16 bytes.
 
 **Firma de unidad arrancable** ocupa **2 bytes** y esta basado en el sistema hexadecimal.

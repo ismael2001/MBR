@@ -6,7 +6,7 @@
 
 El MBR se refiere al sector de arranque de **512 bytes**
 
-**Código Máquina** és el gestor de arranque,és un lenguaje compuesto por un conjunto de instrucciones.
+**Código Máquina** és el gestor de arranque, és un lenguaje compuesto por un conjunto de instrucciones.
 
 Ocupa **446 bytes**
 

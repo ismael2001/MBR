@@ -1,7 +1,5 @@
 # Installing Steam on Fedora
 
-These instructions are currently for Fedora 24. I'll update them over the releases if anything changes.
-
 Before you follow these, make sure you have [RPM Fusion](http://rpmfusion.org/Configuration) installed.
 
 ## Open a terminal
